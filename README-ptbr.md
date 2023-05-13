@@ -18,4 +18,4 @@
   ```
   
 ## ✨ inspirações
-  - [tutorial](https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=4299s) de jogo de luta do [Chris Courses's](https://github.com/chriscourses)
+  - [tutorial](https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=4299s) de jogo de luta do [Chris Courses](https://github.com/chriscourses)
