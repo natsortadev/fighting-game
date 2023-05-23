@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 > 🎮 ...seguindo o [tutorial](https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=4299s) do [Chris Courses](https://github.com/chriscourses)!<br>
 > 🤖 início: 20 de dezembro de 2022 enquanto estava sem WiFi<br>
-> 🥷 fim: ???
+> 🥷 finalização das mecânicas principais: 4 de fevereiro de 2023
 
 ## 📑 como testar
   ```
