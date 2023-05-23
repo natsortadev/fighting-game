@@ -6,9 +6,6 @@
 > 🤖 início: 20 de dezembro de 2022 enquanto estava sem WiFi<br>
 > 🥷 fim: ???
 
-## 📚 projeto criado para
-  - me divertir e criar um jogo
-
 ## 📑 como testar
   ```
   git clone https://github.com/nat-thunder/fighting-game.git
